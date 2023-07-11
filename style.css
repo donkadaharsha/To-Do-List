@@ -1,0 +1,56 @@
+#ListOfTasks{
+    color: brown;
+    font-family: math;
+    font-size: 17pt;
+    margin-left: 270pt;
+    margin-top: 30pt;
+    font-family: cursive;
+}
+
+
+td{
+    outline: solid;
+    text-align: center;
+}
+#EnterTask{
+    display: none;
+}
+th{
+    outline: solid;
+}
+.DeleteButtonClass{
+    outline: solid;
+
+}
+#inputBox{
+    font-size: larger;
+    font-size: larger;
+    
+}
+
+html{
+    background-image: url("C:/Users/vardh/OneDrive/Documents/study/PersonalBlog/To-Do-List/laptop-eyeglasses-mouse-diary-pen-pot-plant-black-background.jpg") ;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: teal;
+    font-size: 50pt;
+    font-family: cursive;
+}
+
+#AddTask{
+    color: cadetblue;
+    margin-left: 450pt;
+    margin-top: -30pt;
+    background: bottom;
+    font-size: x-large;
+    font-weight: bolder;
+    cursor: pointer;
+}
+#EnterTask{
+
+    margin-left: 350pt
+    ;
+}
